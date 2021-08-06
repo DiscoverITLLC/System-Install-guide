@@ -34,3 +34,12 @@ https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote_Linux.zip
 
 Linux application:
 https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote_Windows.zip
+
+Step 6
+````bash
+bash -c "$(curl -s https://raw.githubusercontent.com/DiscoverITLLC/MMM-Remote-Control/master/installer.sh)"
+````
+Step 7
+````bash
+bash -c "$(curl -s https://raw.githubusercontent.com/DiscoverITLLC/MMM-Videoplayer/master/installer.sh)"
+````
