@@ -30,7 +30,7 @@ Android app:
 https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote.apk
 
 Application for WINDOWS:
-https://github.com/DiscoverITLLC/MM-Remote/blob/main/MM-Remote_Linux.zip
+https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote_Linux.zip
 
 Linux application:
-https://github.com/DiscoverITLLC/MM-Remote/blob/main/MM-Remote_Windows.zip
+https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote_Windows.zip
