@@ -43,3 +43,7 @@ Step 7
 ````bash
 bash -c "$(curl -s https://raw.githubusercontent.com/DiscoverITLLC/MMM-Videoplayer/master/installer.sh)"
 ````
+Step 8
+````bash
+bash -c "$(curl -s https://raw.githubusercontent.com/DiscoverITLLC/MMM-BackgroundSlideshow/master/installer.sh)"
+````
