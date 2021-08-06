@@ -25,8 +25,9 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_
 # System remote control
 //Acceda a la interfaz remota en http://Here your ip:8080/remote.html (reemplace con la dirección IP)
 Apy key(bc2e979db92f4741afad01d5d18eb8e2) APK
+
 Android app:
-https://github.com/DiscoverITLLC/MM-Remote/blob/main/MM-Remote.apk
+https://github.com/DiscoverITLLC/MM-Remote/raw/main/MM-Remote.apk
 
 Application for WINDOWS:
 https://github.com/DiscoverITLLC/MM-Remote/blob/main/MM-Remote_Linux.zip
