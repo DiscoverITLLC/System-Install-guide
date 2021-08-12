@@ -5,22 +5,6 @@ Step 1
 ````bash
 bash -c  "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_scripts/master/raspberry.sh)"
 ````
-Step 2
-````bash
-bash -c  "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_scripts/master/upgrade-script.sh)"
-````
-Step 3
-````bash
-bash -c  "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_scripts/master/upgrade-script.sh)" apply
-````
-Step 4
-````bash
-bash -c "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_scripts/master/screensaveroff.sh)"
-````
-Step 5
-````bash
-bash -c "$(curl -sL https://raw.githubusercontent.com/DiscoverITLLC/MagicMirror_scripts/master/fixuppm2.sh)"
-````
 
 # System remote control
 //Acceda a la interfaz remota en http://Here your ip:8080/remote.html (reemplace con la dirección IP)
